@@ -18,5 +18,6 @@ public class ShippingCost {
 		}else {
 			System.out.println("The package cannot be shipped.");
 		}
+		input.close();
 	}
 }
