@@ -1,4 +1,3 @@
-package lab4;
 //Karen Huang
 //111644515
 
